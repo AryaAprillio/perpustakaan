@@ -19,7 +19,7 @@ $no = 1;
             <th>Email</th>
             <th>No HP</th>
             <th>Tahun</th>
-            <th>Aksi</th>
+            <th>Aksii</th>
         </tr>
     </thead>
     <tbody>
