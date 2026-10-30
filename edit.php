@@ -74,7 +74,7 @@ require 'layout/header.php';
             <small class="text-muted">Kosongkan jika tidak ingin mengganti sampul.</small>
         </div>
     </div>
-    <input type="submit" value="Simpan Perubahan" name="update" class="btn btn-info">
+    <input type="submit" value="Simpan" name="update" class="btn btn-success">
     <a href="buku.php" class="btn btn-secondary">Kembali</a>
 </form>
 
